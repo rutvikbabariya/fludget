@@ -11,7 +11,7 @@ class ApplicationOfTheDay extends StatelessWidget {
     return Card(
       elevation: 10.0,
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20.0)),
-      color: Colors.white,
+      color: Colors.blue,
       child: Row(
 //        mainAxisAlignment: MainAxisAlignment.spaceAround,
         children: <Widget>[
